@@ -23,6 +23,7 @@ class EditorModel
 
         return $questions;
     }
+    // sas
 
     public function getQuestionById($idPregunta)
     {
